@@ -32,4 +32,5 @@ Make sure Python **3.x** is installed.
 ```bash
 git clone https://github.com/yourusername/hebrew-braille-translator.git
 cd hebrew-braille-translator
-python braille.py
+python he_braille_translator.py
+
